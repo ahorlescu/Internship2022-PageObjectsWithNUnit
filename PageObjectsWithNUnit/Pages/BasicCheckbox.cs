@@ -6,7 +6,7 @@ namespace PageObjectsWithNUnit.Pages
     public class BasicCheckbox
     {
 
-        private string url = "https://www.seleniumeasy.com/test/basic-checkbox-demo.html";
+        private string url = "https://demo.anhtester.com/basic-checkbox-demo.html";
 
         private IWebDriver driver;
 

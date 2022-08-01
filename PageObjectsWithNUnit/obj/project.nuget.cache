@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g94tSwGiYd+L3v/MSu0RwH0MbBBachZeBSIm4CVjBYDnWlO/I+12LfZS5+y2CR5mKznn20aN25gBX8sWY44sXQ==",
+  "dgSpecHash": "PUWa0LpY9YygR2Kmm1bACfBoh+qYdu3fPbxmIwpKlCAJPQXmWSwSJ0cwHKcfkks6tFQMBSAADySiHjF2oDCySg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahorlescu\\Downloads\\internship\\Nunit & Page Object Pattern\\Internship2022-PageObjectsWithNUnit\\PageObjectsWithNUnit\\PageObjectsWithNUnit.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,7 @@
     "C:\\Users\\ahorlescu\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\ahorlescu\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\ahorlescu\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
-    "C:\\Users\\ahorlescu\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.10700\\selenium.webdriver.chromedriver.92.0.4515.10700.nupkg.sha512",
+    "C:\\Users\\ahorlescu\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.13400\\selenium.webdriver.chromedriver.103.0.5060.13400.nupkg.sha512",
     "C:\\Users\\ahorlescu\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\ahorlescu\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\ahorlescu\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

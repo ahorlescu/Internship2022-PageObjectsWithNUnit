@@ -5,7 +5,7 @@ namespace PageObjectsWithNUnit.Pages
 {
     public class BasicForm
     {
-        private string url = "https://www.seleniumeasy.com/test/basic-first-form-demo.html";
+        private string url = "https://demo.anhtester.com/basic-first-form-demo.html";
 
         private IWebDriver driver;
 
