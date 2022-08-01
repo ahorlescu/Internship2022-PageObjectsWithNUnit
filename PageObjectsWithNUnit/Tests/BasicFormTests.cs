@@ -44,7 +44,7 @@ namespace PageObjectsWithNUnit.Tests
             // Arrange
             string message = "abcd";
 
-            driver.Navigate().GoToUrl("https://www.seleniumeasy.com/test/basic-first-form-demo.html");
+            driver.Navigate().GoToUrl("https://demo.anhtester.com/basic-first-form-demo.html");
             driver.FindElement(By.Id("user-message")).SendKeys(message);
 
             // Act
